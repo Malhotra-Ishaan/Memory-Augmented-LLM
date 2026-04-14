@@ -1,0 +1,10 @@
+templates/
+static/
+
+data1.json
+memory1.json
+memory.json
+data.json
+
+base.ipynb
+test.py
