@@ -1,3 +1,5 @@
+> 📌 **Note:** This repository was re-uploaded due to loss of access to the original repo's linked Git email account.
+
 # 🧠 AI Memory Chat (Streamlit + Gemini + Vector Memory)
 
 An intelligent Streamlit-based chat application that gives LLMs **long-term memory capabilities** using embeddings, FAISS retrieval, and NLI-based deduplication.
@@ -7,7 +9,6 @@ This project allows an AI assistant to remember user **facts and preferences acr
 ---
 
 ## 🚀 Features
-
 - 💬 Chat interface using Streamlit
 - 🧠 Persistent long-term memory system
 - 🔎 Semantic search using Sentence Transformers
@@ -54,4 +55,3 @@ This project allows an AI assistant to remember user **facts and preferences acr
 ### 6. LLM Layer
 - Google Gemini model (`gemma-3-1b-it`)
 - Injects relevant memory into prompts dynamically
-
